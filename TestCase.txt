@@ -1,0 +1,30 @@
+TestCase DBMS:
+Data Khusus Input:
+Korban:
+INSERT DATA KHUSUS KORBAN V003 Arif
+insert data khusus korban V004 Adi;
+UPDATE DATA KHUSUS KORBAN V003 Arif_Didu
+delete DATA khusus KORBAN V003;
+KASUS:
+INSERT DATA KHUSUS KASUS C003 Maling_Uang;
+update data khusus kasus C003 Maling_Uang_Orang;
+DELETE data KHUSUS kasus C003;
+Tanggal Penangkapan:
+INSERT DATA KHUSUS TANGGALPENANGKAPAN D003 06-Desember-2024;
+UPDATE DATA KHUSUS TANGGALPENANGKAPAN D003 06-Januari-2025;
+delete data khusus tanggalpenangkapan D003;
+Data Khusus TestCase:
+INSERT DATA KHUSUS V005 Budi;
+DELETE DATA KHUSUS KASUS C002;
+Pelaku:
+INSERT PELAKU S003 V003 C003 D003 SetiaBudi Penjara 10Tahun;
+INSERT PELAKU S003 Budi V002 C002 D002 SetiaBudi Penjara 10Tahun;
+UPDATE PELAKU S003 Akang V001 C001 D001 Lembang Penjara 5Tahun;
+delete pelaku S003;
+Tampilkan Data:
+TAMPILKAN DATA;
+TAMPILKAN DATA KORBAN;
+TAMPILKAN DATA KASUS;
+tampilkan data tanggalpenangkapan;
+Mengakhiri Program:
+SEMOGA HARIMU MENYENANGKAN;
